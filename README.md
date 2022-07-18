@@ -20,6 +20,12 @@ We are an app & website development agency in Sydney, Australia 🇦🇺🌉🦘
 
 [![GangyiStudio's Github Stats](https://github-readme-stats.vercel.app/api?username=gangyistudios&count_private=true&theme=default&show_icons=true)]()
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gangyistudios&layout=compact)]
+
+### Wakatime 
+
+[![gangyistudio's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gangyistudios)]
+
 <!--
 **gangyistudios/gangyistudios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
