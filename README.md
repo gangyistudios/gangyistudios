@@ -2,7 +2,7 @@
 
 We are an app & website development agency in Sydney, Australia 🇦🇺🌉🦘🐨🪃! 
 
-- 🔭 I'm currently working on the [curved_navigation_rail](https://github.com/gangyistudios/curved_navigation_rail)
+- 🔭 We're currently working on the [curved_navigation_rail](https://github.com/gangyistudios/curved_navigation_rail)
 - 💬 Ask me about [Python](https://www.python.org/), [Java](https://www.java.com/en/), and [Flutter](https://flutter.dev).
 - 📫 How to reach me: 
   - Twitter:   [@GangyiS](https://twitter.com/GangyiS)
