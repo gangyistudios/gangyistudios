@@ -3,14 +3,13 @@
 We are an app & website development agency in Sydney, Australia 🇦🇺🌉🦘🐨🪃! 
 
 - 🔭 We're currently working on the [curved_navigation_rail](https://github.com/gangyistudios/curved_navigation_rail)
-- 💬 Ask me about [Python](https://www.python.org/), [Java](https://www.java.com/en/), and [Flutter](https://flutter.dev).
-- 📫 How to reach me: 
+- 💬 Ask us about [Python](https://www.python.org/), [Java](https://www.java.com/en/), and [Flutter](https://flutter.dev).
+- 📫 How to reach us: 
   - Twitter:   [@GangyiS](https://twitter.com/GangyiS)
   - Instagram: [@gangyistudios](https://www.instagram.com/gangyistudios/)
   - Email:     [contact@gangyistudios.com](mailto:contact@gangyistudios.com)
   - Website:   [gangyistudios.com](http://gangyistudios.com)
-- 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I'm into all things JDM! Owned: Nissan 200sx (Silvia) S14, Kawasaki Ninja 300. 
+- ⚡ Fun fact: We're into all things JDM! Owned: Nissan 200sx (Silvia) S14, Kawasaki Ninja 300. 
 
 ### Open Source Projects
 
