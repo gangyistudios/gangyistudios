@@ -7,6 +7,7 @@ We are an app & website development agency in Sydney, Australia 🇦🇺🌉🦘
 - 📫 How to reach us: 
   - Twitter:   [@gangyistudios](https://twitter.com/gangyistudios)
   - Instagram: [@gangyistudios](https://www.instagram.com/gangyistudios/)
+  - Medium:    [@gangyistudios](https://medium.com/@gangyistudios)
   - Email:     [contact@gangyistudios.com](mailto:contact@gangyistudios.com)
   - Website:   [gangyistudios.com](http://gangyistudios.com)
 - ⚡ Fun fact: We're into all things JDM! Owned: Nissan 200sx (Silvia) S14, Kawasaki Ninja 300. 
